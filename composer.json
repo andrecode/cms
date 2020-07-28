@@ -1,0 +1,53 @@
+{
+    "name": "skeeks/cms",
+    "description": "SkeekS CMS — control panel and tools based on php framework Yii2",
+    "keywords": ["framework", "cms", "skeeks", "sx", "skeeks cms", "app", "yii2", "extension"],
+    "homepage": "https://cms.skeeks.com",
+    "type": "yii2-extension",
+    "license": "GPL-3.0+",
+    "support": {
+        "source": "https://github.com/skeeks-cms/cms",
+        "issues": "https://github.com/skeeks-cms/cms/issues",
+        "wiki": "https://cms.skeeks.com/docs",
+        "authors": "https://skeeks.com"
+    },
+    "authors": [
+        {
+            "name": "SkeekS",
+            "email": "support@skeeks.com",
+            "homepage": "http://skeeks.com"
+        },
+        {
+            "name": "Semenov Alexander",
+            "email": "semenov@skeeks.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "yiisoft/yii2-jui": "*",
+        "yiisoft/yii2-bootstrap": "*",
+        "skeeks/cms-admin": "*",
+        "skeeks/cms-rbac": "*",
+        "skeeks/cms-marketplace": "*",
+        "skeeks/yii2-imagine": "*",
+        "skeeks/yii2-sx": "*",
+        "skeeks/yii2-ckeditor": "*",
+        "skeeks/yii2-widget-simpleajaxuploader": "*",
+        "skeeks/yii2-widget-chosen": "*",
+        "skeeks/yii2-widget-highcharts": "*",
+        "skeeks/yii2-widget-codemirror": "*",
+        "kartik-v/yii2-datecontrol": "*",
+        "kartik-v/yii2-widget-datepicker": "*",
+        "kartik-v/yii2-widget-datetimepicker": "*",
+        "kartik-v/yii2-widget-colorinput": "*",
+        "mihaildev/yii2-elfinder": "1.1.3",
+        "bower-asset/fancybox": "~2.1",
+        "giggsey/libphonenumber-for-php": "~7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "skeeks\\cms\\": ""
+        }
+    }
+}

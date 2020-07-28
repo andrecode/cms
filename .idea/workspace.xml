@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8a26cc79-c322-464b-abf7-bb6270b4d9e4" name="Default Changelist" comment="initial commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_ide/UserIde.php" beforeDir="false" afterPath="$PROJECT_DIR$/_ide/UserIde.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_ide/YiiApplication.php" beforeDir="false" afterPath="$PROJECT_DIR$/_ide/YiiApplication.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-console.php" beforeDir="false" afterPath="$PROJECT_DIR$/app-console.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-web.php" beforeDir="false" afterPath="$PROJECT_DIR$/app-web.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap.php" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/admin.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/admin.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/docs/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/faq.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/faq.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/extensions.mo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/extensions.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/extensions.po" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/extensions.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/faq.mo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/faq.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/faq.po" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/faq.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/index.mo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/index.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/index.po" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/index.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/overview.mo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/overview.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/overview.po" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/overview.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/quickstart.mo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/quickstart.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/quickstart.po" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/quickstart.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/structure.mo" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/structure.mo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/structure.po" beforeDir="false" afterPath="$PROJECT_DIR$/docs/locale/ru/LC_MESSAGES/structure.po" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/overview.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/overview.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/quickstart.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/quickstart.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/structure.rst" beforeDir="false" afterPath="$PROJECT_DIR$/docs/structure.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/global.php" beforeDir="false" afterPath="$PROJECT_DIR$/global.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.php" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Andrey Galimov" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fGUUedpU63Lr32MVA9PCuqXV6D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="73" key="CommitChangelistDialog2" timestamp="1595845859591">
+      <screen x="0" y="23" width="1920" height="949" />
+    </state>
+    <state x="518" y="73" key="CommitChangelistDialog2/0.23.1920.949@0.23.1920.949" timestamp="1595845859591" />
+    <state x="192" y="107" key="DiffContextDialog" timestamp="1595845845404">
+      <screen x="0" y="23" width="1920" height="949" />
+    </state>
+    <state x="192" y="107" key="DiffContextDialog/0.23.1920.949@0.23.1920.949" timestamp="1595845845404" />
+    <state x="521" y="236" key="Vcs.Push.Dialog.v2" timestamp="1595848814013">
+      <screen x="0" y="23" width="1920" height="949" />
+    </state>
+    <state x="521" y="236" key="Vcs.Push.Dialog.v2/0.23.1920.949@0.23.1920.949" timestamp="1595848814013" />
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup" timestamp="1595845251278">
+      <screen x="0" y="23" width="1920" height="949" />
+    </state>
+    <state x="625" y="241" width="670" height="676" key="search.everywhere.popup/0.23.1920.949@0.23.1920.949" timestamp="1595845251278" />
+  </component>
+</project>
