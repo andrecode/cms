@@ -1,16 +1,10 @@
 {
-    "name": "skeeks/cms",
-    "description": "SkeekS CMS — control panel and tools based on php framework Yii2",
-    "keywords": ["framework", "cms", "skeeks", "sx", "skeeks cms", "app", "yii2", "extension"],
-    "homepage": "https://cms.skeeks.com",
+    "name": "shopshow/cms",
+    "description": "Shopshow",
+    "keywords": ["shop", "show"],
+    "homepage": "https://shopandshop.ru",
     "type": "yii2-extension",
     "license": "GPL-3.0+",
-    "support": {
-        "source": "https://github.com/skeeks-cms/cms",
-        "issues": "https://github.com/skeeks-cms/cms/issues",
-        "wiki": "https://cms.skeeks.com/docs",
-        "authors": "https://skeeks.com"
-    },
     "authors": [
         {
             "name": "SkeekS",
